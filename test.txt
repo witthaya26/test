@@ -1,5 +1,6 @@
 feature-a
 feature-a add line
 add 100 200
-add 100
+add 100 + add 12345
 add 12345
+add 200
